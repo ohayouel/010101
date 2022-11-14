@@ -78,9 +78,9 @@ table {
 	margin-top: 272px;
     margin-left: 258px;
 }
-.fs-5 {
-    /* font-size: 14px; */
-	/* size: 5px; */
+.fs-4 {
+    position: relative;
+	z-index: 5;
     font-family: arial, consolas, sans-serif;
     font-weight: bold;
     margin: auto;
