@@ -79,8 +79,6 @@ table {
     margin-left: 258px;
 }
 .fs-4 {
-    position: relative;
-	z-index: 5;
     font-family: arial, consolas, sans-serif;
     font-weight: bold;
     margin: auto;
